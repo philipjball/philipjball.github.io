@@ -1,4 +1,25 @@
-name: Philip Ball
+title: Philip Ball
+description: AI Resident @ Microsoft
+github_username: fiorenza2
 markdown: kramdown
-permalink: /blog/:year/:month/:day/:title
+permalink: /posts/:year/:month/:day/:title
 theme: jekyll-theme-cayman
+header_pages:
+  - about.md
+  - /posts
+
+# Includes an icon in the footer for each username you enter
+footer-links:
+  dribbble:
+  email: fiorenza.two@gmail.com
+  facebook:
+  flickr:
+  github: fiorenza2
+  instagram:
+  linkedin: philipjohnball
+  pinterest:
+  rss: # just type anything here for a working RSS icon
+  twitter: 
+  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  youtube: # channel/<your_long_string> or user/<user-name>
+  googleplus: # anything in your profile username that comes after plus.google.com/
