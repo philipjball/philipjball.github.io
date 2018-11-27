@@ -1,17 +1,13 @@
 title: Philip Ball
 description: AI Resident @ Microsoft
-github_username: fiorenza2
 markdown: kramdown
 permalink: /posts/:year/:month/:day/:title
 theme: jekyll-theme-cayman
-header_pages:
-  - about.md
-  - /posts
 
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: fiorenza.two@gmail.com
+  email: philipjball93@gmail.com
   facebook:
   flickr:
   github: fiorenza2
