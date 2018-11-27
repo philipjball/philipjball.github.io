@@ -1,6 +1,11 @@
 ---
 ---
 
+$header-bg-color-secondary: #2575fc;
+$header-bg-color: #6a11cb;
+$section-headings-color: #2575fc;
+$header-heading-color: #fff;
+
 @import "{{ site.theme }}";
 
 a.link-no-style {
@@ -9,6 +14,15 @@ a.link-no-style {
 
 .page-header {
     padding: 0.5rem 0.5rem; }
+
+.btn {
+    color: inherit;
+    opacity: 0.9;
+}
+
+.project-tagline {
+    opacity: 0.9;
+}
 
 .svg-icon {
 width: 40px;
