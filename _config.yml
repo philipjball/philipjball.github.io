@@ -4,18 +4,22 @@ markdown: kramdown
 permalink: /posts/:year/:month/:day/:title
 theme: jekyll-theme-cayman
 
-# Includes an icon in the footer for each username you enter
-footer-links:
-  dribbble:
-  email: philipjball93@gmail.com
-  facebook:
-  flickr:
+# Icons in the footer for contacting
+social-network-links:
+  email: "philipjball93@gmail.com"
+#  facebook: 
   github: fiorenza2
-  instagram:
+#  twitter: daattali
+#  reddit: yourname
+#  google-plus: +DeanAttali
   linkedin: philipjohnball
-  pinterest:
-  rss: # just type anything here for a working RSS icon
-  twitter: 
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
+#  xing: yourname
+#  stackoverflow: "3943160/daattali"
+#  snapchat: deanat78
+#  instagram: deanat78
+#  youtube: user/deanat78
+#  spotify: yourname
+#  telephone: +14159998888
+#  steam: deanat78
+#  twitch: yourname
+#  yelp: yourname
