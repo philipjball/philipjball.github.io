@@ -1,0 +1,9 @@
+- authors: Lacoste-Julien et al.
+  year: 2013
+  title: Block-Coordinate Frank-Wolfe Optimization for Structural SVMs
+  key: lacostejulian2013
+
+- authors: Berrada et al.
+  year: 2018
+  title: Smooth Loss Functions for Deep Top-k Classification
+  key: berrada2018
