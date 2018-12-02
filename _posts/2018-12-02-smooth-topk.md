@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Quick Notes on: Smooth Loss Functions for Deep Top-k Classification"
+title: "Notes on: Smooth Loss Functions for Deep Top-k Classification"
 date: 2018-12-02
 mathjax: true
 ---
