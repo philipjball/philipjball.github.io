@@ -7,3 +7,8 @@
   year: 2018
   title: Smooth Loss Functions for Deep Top-k Classification
   key: berrada2018
+
+- authors: Szegedy et al.
+  year: 2013
+  title: Intriguing Properties of Neural Networks
+  key: szegedy2013
