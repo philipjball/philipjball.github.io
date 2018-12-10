@@ -82,7 +82,7 @@ $$
 
 $$
 \begin{equation}
-\mathbf{x}_1 = \max (\hat{\mathbf{x}},0) \qquad \forall i \in \{0,n-1\}
+\mathbf{x}_i = \max (\hat{\mathbf{x}_i},0) \qquad \forall i \in \{0,n-1\}
 \label{eq:relu}
 \end{equation}
 $$
@@ -141,7 +141,7 @@ A baseline is introduced, whereby Eqs \ref{eq:input}-\ref{eq:relu} are put into 
 Observing the cactus graphs, the following can be said:
 * On the shallower networks in the CollisionDetection task, the Planet-based schemes perform best, verifying almost all properties within 10s. Furthermore, all schemes appear to be able to verify all properties eventually.
 * On the denser networks in the ACAS task, the Planet-based schemes perform poorly, verifying less than 50% of all properties before timing out. In this case the BaB-based schemes perform best, particularly the smart branching approach, which is two order of magnitudes better than Reluplex.
-* On the cactus plots, again BaBSB performs best. In terms of scaling, it is clear that larger networks (both depth/width/input dimension) take longer to test, and furthermore, tighter margins on the property take longer to prove.
+* On the PCAMNIST cactus plots, again BaBSB performs best. In terms of scaling, it is clear that larger networks (both depth/width/input dimension) take longer to test, and furthermore, tighter margins on the property take longer to prove.
 
 # Conclusion
 
