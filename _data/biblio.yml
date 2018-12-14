@@ -12,3 +12,8 @@
   year: 2013
   title: Intriguing Properties of Neural Networks
   key: szegedy2013
+
+- authors: Kingma and Welling.
+  year: 2013
+  title: Autoencoding Variational Bayes
+  key: kingma2013
