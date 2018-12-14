@@ -104,11 +104,12 @@ $$
 The paper now introduces a generalisation of the Reparameterisation Trick[^1], whereby a random variable can be written in terms of a 'simple' parameterised random variable given a transformation (i.e., $$\mathbf{w} = t(\theta, \epsilon)$$). This allows the derivative of an expectation to be written as the expectation of a derivative, thus the gradients are able to flow through the network so that parameters can be learnt. Assuming we can write $$q(\mathbf{w} \vert \theta)d\mathbf{w} = q(\epsilon) d\epsilon$$:
 
 $$
+\require{cancel}
 \begin{align}
 \frac{\partial}{\partial \theta} \mathbb{E}_{q(\mathbf{w}\vert \theta)} \left[ f(\mathbf{w},\theta) \right] &= \frac{\partial}{\partial \theta} \int f(\mathbf{w},\theta) q(\mathbf{w}\vert \theta) d\mathbf{w} \\
 &= \frac{\partial}{\partial \theta} \int f(\mathbf{w},\theta) q(\epsilon) d\epsilon \\
 &= \int \frac{\partial}{\partial \theta} f(\mathbf{w},\theta) q(\epsilon) d\epsilon \\
-&= \int \left[ \frac{\partial}{\partial \theta}[f(\mathbf{w},\theta)]\cdot q(\epsilon) + {\frac{\partial}{\partial \theta}[q(\epsilon)]\cdot f(\mathbf{w},\theta)} \right] d\mathbf{w}\\
+&= \int \left[ \frac{\partial}{\partial \theta}[f(\mathbf{w},\theta)]\cdot q(\epsilon) + \cancelto{0}{\frac{\partial}{\partial \theta}[q(\epsilon)]\cdot f(\mathbf{w},\theta)} \right] d\mathbf{w}\\
 &= \mathbb{E}[ \frac{\partial f(\mathbf{w},\theta)}{\partial \theta} + \frac{\partial f(\mathbf{w},\theta)}{\partial \mathbf{w}} \frac{\partial \mathbf{w}}{\partial \theta} ]
 \end{align}
 $$
