@@ -17,3 +17,8 @@
   year: 2013
   title: Autoencoding Variational Bayes
   key: kingma2013
+
+- authors: Damianou and Lawrence.
+  year: 2013
+  title: Deep Gaussian Processes
+  key: damianou2013
