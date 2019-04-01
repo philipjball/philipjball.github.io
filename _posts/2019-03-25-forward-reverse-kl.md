@@ -5,11 +5,7 @@ date: 2019-03-25
 mathjax: true
 ---
 
-# High Level Overview
-
-TBC...
-
-# Background
+# Introduction
 
 In variational inference, we rely on the idea of turning a posterior Bayesian inference problem into one that involves the minimisation of a divergence (usually KL) between a simplifying variational distribution $$Q$$ and some true (intractable) posterior $$P$$. This is done to avoid the oftentimes intractable integrals that are required in the 'true' Bayesian form: 
 
@@ -40,11 +36,7 @@ D_{\text{KL}}\left(P(z|x) || Q(z) \right) = \mathbb{E}_{z \sim P} \left[ \log \f
 \end{equation}
 $$
 
-Clearly these are different quantities (KL divergence is assymetric after all), and therefore optimising each one will result in different optimal approximate $$Q$$ distributions. We will therefore address the following:
-
-* What does optimal look like in the reverse and forward divergences?
-* Why does VI strictly use reverse KL divergences?
-* How can we use forward divergences?
+Clearly these are different quantities (KL divergence is assymetric after all), and therefore optimising each one will result in different optimal approximate $$Q$$ distributions.
 
 # Comparing Forward and Reverse KL Divergences
 
