@@ -22,3 +22,13 @@
   year: 2013
   title: Deep Gaussian Processes
   key: damianou2013
+
+- authors: Burda and Edwards et al.
+  year: 2018
+  title: Exploration by Random Network Distillation
+  key: burda2018
+
+- authors: Hutter.
+  year: 2006
+  title: General Discounting versus Average Reward
+  key: hutter2006
