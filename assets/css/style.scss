@@ -1,30 +1,68 @@
 ---
 ---
 
-$header-bg-color-secondary: #2575fc;
-$header-bg-color: #6a11cb;
-$section-headings-color: #2575fc;
-$header-heading-color: #fff;
+$header-bg-color-secondary: transparent;
+$header-bg-color: transparent;
+$section-headings-color: #002fa7;
+$header-heading-color: #002fa7;
 
 @import "{{ site.theme }}";
 
+a:link {
+    color: #002fa7;
+}
+
+a:visited {
+    color: #002fa7;
+}
+
+a:hover{
+    color: #606c71;
+    text-decoration: none;
+    opacity: 0.5;
+}
+
 a.link-no-style {
-    color: inherit;
+    color: #002fa7;
   }
 
 a.fa-icon-style {
-    color: #2575fc;
+    color: #002fa7;
     opacity: 1.0;
     text-decoration: none;
 }
 
 .page-header {
-    padding: 0.5rem 0.5rem; }
+    font-family: "Amiri";
+    padding: 0.25rem 0.25rem;
+    padding-bottom: 0px;
+    // border-bottom: solid 2px $hr-border-color;
+}
 
 .btn {
-    color: inherit;
-    opacity: 0.9;
+    color: #002fa7;
+    text-decoration: underline;
+    border: transparent;
+    opacity: 1.0;
+    background: transparent;
+    font-size: 14pt;
 }
+
+.btn:hover {
+    color: #606c71;
+    text-decoration: underline;
+    background: transparent;
+    border: transparent;
+    opacity: 0.5;
+  }
+
+  .btn:active {
+    color: #606c71;
+    text-decoration: underline;
+    background-color: transparent;
+    border-color: transparent;
+    opacity: 0.5;
+  }
 
 .project-tagline {
     opacity: 0.9;
@@ -33,10 +71,11 @@ a.fa-icon-style {
 .site-footer {
     padding-top: 1rem;
     margin-top: 2rem;
-    border-top: solid 2px $hr-border-color;
+    border-top: solid 1px $hr-border-color;
 }
 
 .main-content {
+    font-family: 'Amiri', serif;
 
 @include large {
     max-width: 72rem;
