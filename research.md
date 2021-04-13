@@ -12,6 +12,21 @@ title: "Research"
                 <tr>
                     <td style="text-align:center; border: 0px">
                         <div class="large-1 columns">
+                            <img style="float: center;" src="/assets/img/papers/AugWM.png" alt="Augmented World Models" height="100px"/>
+                        </div>
+                    </td>
+                    <td style="border: 0px">
+                        <div class="large-12 columns">
+                            <b>Augmented World Models Facilitate Zero-Shot Dynamics Generalization From a Single Offline Environment</b> <br>
+                            <b>Philip J. Ball*</b>, Cong Lu*, Jack Parker-Holder, Stephen Roberts<br>
+                            Spotlight at "Self-Supervision for Reinforcement Learning Workshop" @ ICLR 2021<br>
+                            [<a href="https://arxiv.org/abs/2104.05632">arXiv</a>][<a href="https://openreview.net/forum?id=lsY6UN1DNoe">Official</a>][<a href="https://sites.google.com/view/augmentedworldmodels/home">Website</a>]
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align:center; border: 0px">
+                        <div class="large-1 columns">
                             <img style="float: center;" src="/assets/img/papers/active_inference.png" alt="Active Inference" height="100px"/>
                         </div>
                     </td>
