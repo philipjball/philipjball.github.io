@@ -19,8 +19,9 @@ title: "Research"
                         <div class="large-12 columns">
                             <b>Augmented World Models Facilitate Zero-Shot Dynamics Generalization From a Single Offline Environment</b> <br>
                             <b>Philip J. Ball*</b>, Cong Lu*, Jack Parker-Holder, Stephen Roberts<br>
+                            ICML 2021<br>
                             Spotlight at "Self-Supervision for Reinforcement Learning Workshop" @ ICLR 2021<br>
-                            [<a href="https://arxiv.org/abs/2104.05632">arXiv</a>][<a href="https://openreview.net/forum?id=lsY6UN1DNoe">Official</a>][<a href="https://sites.google.com/view/augmentedworldmodels/home">Website</a>]
+                            [<a href="https://arxiv.org/abs/2104.05632">arXiv</a>][<a href="https://openreview.net/forum?id=lsY6UN1DNoe">Official</a>][<a href="https://sites.google.com/view/augmentedworldmodels/home">Website</a>][<a href="https://www.youtube.com/watch?v=KcG2hz9tZsQ">Presentation</a>]
                         </div>
                     </td>
                 </tr>
