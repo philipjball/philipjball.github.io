@@ -50,23 +50,8 @@ title: "Research"
                         <div class="large-12 columns">
                             <b>Active Inference: Demystified and Compared</b> <br>
                             Noor Sajid*, <b>Philip J. Ball*</b>, Thomas Parr, Karl J. Friston <br>
-                            Neural Computation (2021) 33 (3): 674–712. <br>
+                            Neural Computation (2021, Journal) <br>
                             [<a href="https://arxiv.org/abs/1909.10863">arXiv</a>][<a href="https://doi.org/10.1162/neco_a_01357">Official</a>][<a href="https://github.com/ucbtns/dai">GitHub</a>]
-                        </div>
-                    </td>
-                </tr>
-                <tr>
-                    <td style="text-align:center; border: 0px">
-                        <div class="large-1 columns">
-                            <img style="float: center;" src="/assets/img/papers/sleepprunecycles.png" alt="Continual Learning Efficiency" height="100px"/>
-                        </div>
-                    </td>
-                    <td style="border: 0px">
-                        <div class="large-12 columns">
-                            <b>A Study on Efficiency in Continual Learning Inspired by Human Learning</b> <br>
-                            <b>Philip J. Ball</b>, Yingzhen Li, Angus Lamb, Cheng Zhang<br>
-                            BabyMind Workshop NeurIPS 2020 <br>
-                            [<a href="https://arxiv.org/abs/2010.15187">arXiv</a>]
                         </div>
                     </td>
                 </tr>
@@ -88,21 +73,6 @@ title: "Research"
                 <tr>
                     <td style="text-align:center; border: 0px">
                         <div class="large-1 columns">
-                            <img style="float: center;" src="/assets/img/papers/unclear.png" alt="UNCLEAR" height="100px"/>
-                        </div>
-                    </td>
-                    <td style="border: 0px">
-                        <div class="large-12 columns">
-                            <b>UNCLEAR: A Straightforward Method for Continual Reinforcement Learning</b> <br>
-                            Samuel Kessler, Jack Parker-Holder, <b>Philip J. Ball</b>, Stefan Zohren, Stephen J Roberts<br>
-                            Workshop on Continual Learning ICML 2020 <br>
-                            [<a href="https://www.oxford-man.ox.ac.uk/wp-content/uploads/2020/11/UNCLEAR-A-Straightforward-Method-for-Continual-Reinforcement-Learning.pdf">Link</a>][<a href="https://drive.google.com/file/d/1GMTWC0C6jMTwtqZxoyq6a-VDxkrDCIHm/view">Official</a>][<a href="https://www.youtube.com/watch?v=zbjMGRDn1ss">Video</a>]
-                        </div>
-                    </td>
-                </tr>
-                <tr>
-                    <td style="text-align:center; border: 0px">
-                        <div class="large-1 columns">
                             <img style="float: center;" src="/assets/img/papers/cfu.png" alt="Counter Factual Unfairness" height="100px"/>
                         </div>
                     </td>
@@ -112,6 +82,47 @@ title: "Research"
                             Niki Kilbertus, <b>Philip J. Ball</b>, Matt J. Kusner, Adrian Weller, Ricardo Silva<br>
                             UAI 2019 <br>
                             [<a href="https://arxiv.org/abs/1907.01040">arXiv</a>][<a href="http://proceedings.mlr.press/v115/kilbertus20a.html">Official</a>][<a href="https://github.com/nikikilbertus/cf-fairness-sensitivity">GitHub</a>]
+                        </div>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>
+
+# Workshop Papers
+
+<div class="row">
+    <div class="col-sm-10">
+        <table>
+            <tbody>
+                <tr>
+                    <td style="text-align:center; border: 0px">
+                        <div class="large-1 columns">
+                            <img style="float: center;" src="/assets/img/papers/sleepprunecycles.png" alt="Continual Learning Efficiency" height="100px"/>
+                        </div>
+                    </td>
+                    <td style="border: 0px">
+                        <div class="large-12 columns">
+                            <b>A Study on Efficiency in Continual Learning Inspired by Human Learning</b> <br>
+                            <b>Philip J. Ball</b>, Yingzhen Li, Angus Lamb, Cheng Zhang<br>
+                            BabyMind Workshop NeurIPS 2020 <br>
+                            [<a href="https://arxiv.org/abs/2010.15187">arXiv</a>]
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align:center; border: 0px">
+                        <div class="large-1 columns">
+                            <img style="float: center;" src="/assets/img/papers/unclear.png" alt="UNCLEAR" height="100px"/>
+                        </div>
+                    </td>
+                    <td style="border: 0px">
+                        <div class="large-12 columns">
+                            <b>UNCLEAR: A Straightforward Method for Continual Reinforcement Learning</b> <br>
+                            Samuel Kessler, Jack Parker-Holder, <b>Philip J. Ball</b>, Stefan Zohren, Stephen J Roberts<br>
+                            Workshop on Continual Learning ICML 2020 <br>
+                            [<a href="https://www.oxford-man.ox.ac.uk/wp-content/uploads/2020/11/UNCLEAR-A-Straightforward-Method-for-Continual-Reinforcement-Learning.pdf">Link</a>][<a href="https://drive.google.com/file/d/1GMTWC0C6jMTwtqZxoyq6a-VDxkrDCIHm/view">Official</a>][<a href="https://www.youtube.com/watch?v=zbjMGRDn1ss">Video</a>]
                         </div>
                     </td>
                 </tr>
