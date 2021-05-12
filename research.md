@@ -12,6 +12,21 @@ title: "Research"
                 <tr>
                     <td style="text-align:center; border: 0px">
                         <div class="large-1 columns">
+                            <img style="float: center;" src="/assets/img/papers/narl.png" alt="Optimisim in MBRL" height="100px"/>
+                        </div>
+                    </td>
+                    <td style="border: 0px">
+                        <div class="large-12 columns">
+                            <b>Towards Tractable Optimism in Model-Based Reinforcement Learning</b> <br>
+                            Aldo Pacchiano*, <b>Philip J. Ball*</b>, Jack Parker-Holder*, Krzysztof Choromanski, Stephen Roberts <br>
+                            UAI 2021<br>
+                            [<a href="https://arxiv.org/abs/2006.11911">arXiv</a>]
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align:center; border: 0px">
+                        <div class="large-1 columns">
                             <img style="float: center;" src="/assets/img/papers/AugWM.png" alt="Augmented World Models" height="100px"/>
                         </div>
                     </td>
@@ -111,21 +126,6 @@ title: "Research"
     <div class="col-sm-10">
         <table>
             <tbody>
-                <tr>
-                    <td style="text-align:center; border: 0px">
-                        <div class="large-1 columns">
-                            <img style="float: center;" src="/assets/img/papers/narl.png" alt="Optimisim in MBRL" height="100px"/>
-                        </div>
-                    </td>
-                    <td style="border: 0px">
-                        <div class="large-12 columns">
-                            <b>On Optimism in Model-Based Reinforcement Learning</b> <br>
-                            Aldo Pacchiano*, <b>Philip J. Ball*</b>, Jack Parker-Holder*, Krzysztof Choromanski, Stephen Roberts <br>
-                            arXiv<br>
-                            [<a href="https://arxiv.org/abs/2006.11911">arXiv</a>]
-                        </div>
-                    </td>
-                </tr>
                 <tr>
                     <td style="text-align:center; border: 0px">
                         <div class="large-1 columns">
