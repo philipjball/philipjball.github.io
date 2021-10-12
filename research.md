@@ -12,6 +12,21 @@ title: "Research"
                 <tr>
                     <td style="text-align:center; border: 0px">
                         <div class="large-1 columns">
+                            <img style="float: center;" src="/assets/img/papers/revisiting.png" alt="Offline MBRL Revisited" height="100px"/>
+                        </div>
+                    </td>
+                    <td style="border: 0px">
+                        <div class="large-12 columns">
+                            <b>Revisiting Design Choices in Model-Based Offline Reinforcement Learning</b> <br>
+                            Cong Lu*, <b>Philip J. Ball*</b>, Jack Parker-Holder, Michael A. Osborne, Stephen Roberts <br>
+                            Spotlight at "RL4RealLife Workshop @ ICML2021<br>
+                            [<a href="https://arxiv.org/abs/2110.04135">arXiv</a>]
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align:center; border: 0px">
+                        <div class="large-1 columns">
                             <img style="float: center;" src="/assets/img/papers/narl.png" alt="Optimisim in MBRL" height="100px"/>
                         </div>
                     </td>
@@ -20,7 +35,7 @@ title: "Research"
                             <b>Towards Tractable Optimism in Model-Based Reinforcement Learning</b> <br>
                             Aldo Pacchiano*, <b>Philip J. Ball*</b>, Jack Parker-Holder*, Krzysztof Choromanski, Stephen Roberts <br>
                             UAI 2021<br>
-                            [<a href="https://arxiv.org/abs/2006.11911">arXiv</a>]
+                            [<a href="https://arxiv.org/abs/2006.11911">arXiv</a>][<a href="https://www.auai.org/uai2021/pdf/uai2021.539.pdf">Official</a>]
                         </div>
                     </td>
                 </tr>
