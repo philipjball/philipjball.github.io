@@ -12,6 +12,22 @@ title: "Research"
                 <tr>
                     <td style="text-align:center; border: 0px">
                         <div class="large-1 columns">
+                            <img style="float: center;" src="/assets/img/papers/revisiting.png" alt="Offline MBRL Revisited" height="100px"/>
+                        </div>
+                    </td>
+                    <td style="border: 0px">
+                        <div class="large-12 columns">
+                            <b>Revisiting Design Choices in Model-Based Offline Reinforcement Learning</b> <br>
+                            Cong Lu*, <b>Philip J. Ball*</b>, Jack Parker-Holder, Michael A. Osborne, Stephen Roberts <br>
+                            ICLR 2022 (Spotlight)<br>
+                            Spotlight at "RL4RealLife Workshop" @ ICML2021<br>
+                            [<a href="https://arxiv.org/abs/2110.04135">arXiv</a>][<a href="https://openreview.net/forum?id=zz9hXVhf40">Official</a>]
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align:center; border: 0px">
+                        <div class="large-1 columns">
                             <img style="float: center;" src="/assets/img/papers/owl.png" alt="Optimisim in MBRL" height="100px"/>
                         </div>
                     </td>
@@ -111,21 +127,6 @@ title: "Research"
     <div class="col-sm-10">
         <table>
             <tbody>
-                <tr>
-                    <td style="text-align:center; border: 0px">
-                        <div class="large-1 columns">
-                            <img style="float: center;" src="/assets/img/papers/revisiting.png" alt="Offline MBRL Revisited" height="100px"/>
-                        </div>
-                    </td>
-                    <td style="border: 0px">
-                        <div class="large-12 columns">
-                            <b>Revisiting Design Choices in Model-Based Offline Reinforcement Learning</b> <br>
-                            Cong Lu*, <b>Philip J. Ball*</b>, Jack Parker-Holder, Michael A. Osborne, Stephen Roberts <br>
-                            Spotlight at "RL4RealLife Workshop" @ ICML2021<br>
-                            [<a href="https://arxiv.org/abs/2110.04135">arXiv</a>]
-                        </div>
-                    </td>
-                </tr>
                 <tr>
                     <td style="text-align:center; border: 0px">
                         <div class="large-1 columns">
