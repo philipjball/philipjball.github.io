@@ -19,7 +19,7 @@ title: "Research"
                         <div class="large-12 columns">
                             <b>Revisiting Design Choices in Model-Based Offline Reinforcement Learning</b> <br>
                             Cong Lu*, <b>Philip J. Ball*</b>, Jack Parker-Holder, Michael A. Osborne, Stephen Roberts <br>
-                            ICLR 2022 (Spotlight)<br>
+                            ICLR 2022 <b>(Spotlight, top 6.9% of all submissions)</b><br>
                             Spotlight at "RL4RealLife Workshop" @ ICML2021<br>
                             [<a href="https://arxiv.org/abs/2110.04135">arXiv</a>][<a href="https://openreview.net/forum?id=zz9hXVhf40">Official</a>]
                         </div>
