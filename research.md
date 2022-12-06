@@ -11,6 +11,37 @@ title: "Research"
             <tbody>
                 <tr>
                     <td style="text-align:center; border: 0px">
+                        <div class="large-2 columns">
+                            <img style="float: center;" src="/assets/img/papers/cascade.jpg" alt="CASCADE" height="100px"/>
+                        </div>
+                    </td>
+                    <td style="border: 0px">
+                        <div class="large-12 columns">
+                            <b>Learning General World Models in a Handful of Reward-Free Deployments </b> <br>
+                            Yingchen Xu*, Jack Parker-Holder*, Aldo Pacchiano*, <b>Philip J. Ball*</b>, Oleh Rybkin, Stephen J. Roberts, Tim Rocktäschel, Edward Grefenstette <br>
+                            NeurIPS 2022<br>
+                            [<a href="https://arxiv.org/abs/2210.12719">arXiv</a>][<a href="https://openreview.net/forum?id=RuNhbvX9o9S">Official</a>][<a href="https://yingchenxu.com/cascade/">Site</a>]<br>
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align:center; border: 0px">
+                        <div class="large-2 columns">
+                            <img style="float: center;" src="/assets/img/papers/alix.png" alt="A-LIX" height="100px"/>
+                        </div>
+                    </td>
+                    <td style="border: 0px">
+                        <div class="large-12 columns">
+                            <b>Stabilizing Off-Policy Deep Reinforcement Learning from Pixels</b> <br>
+                            Edoardo Cetin*, <b>Philip J. Ball*</b>, Stephen Roberts, Oya Celiktutan <br>
+                            ICML 2022<br>
+                            [<a href="https://arxiv.org/abs/2207.00986">arXiv</a>][<a href="https://proceedings.mlr.press/v162/cetin22a.html">Official</a>]<br>
+                            <!-- TL;DR: Combining CNNs + TD-Learning causes catastrophic overfitting early in training. Overcome this by mixing up the gradients in the CNN features, and adapt this mixing over training, achieving SOTA in Atari 100k. -->
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align:center; border: 0px">
                         <div class="large-1 columns">
                             <img style="float: center;" src="/assets/img/papers/revisiting.png" alt="Offline MBRL Revisited" height="100px"/>
                         </div>
@@ -21,7 +52,8 @@ title: "Research"
                             Cong Lu*, <b>Philip J. Ball*</b>, Jack Parker-Holder, Michael A. Osborne, Stephen Roberts <br>
                             ICLR 2022 <b>(Spotlight, top 6.9% of all submissions)</b><br>
                             Spotlight at "RL4RealLife Workshop" @ ICML2021<br>
-                            [<a href="https://arxiv.org/abs/2110.04135">arXiv</a>][<a href="https://openreview.net/forum?id=zz9hXVhf40">Official</a>]
+                            [<a href="https://arxiv.org/abs/2110.04135">arXiv</a>][<a href="https://openreview.net/forum?id=zz9hXVhf40">Official</a>] <br>
+                            <!-- TL;DR: Using better calibrated uncertainty estimates improves performance of offline agents when training in a world model. We validate these findings by achieving SOTA in D4RL with a simple method. -->
                         </div>
                     </td>
                 </tr>
@@ -36,7 +68,8 @@ title: "Research"
                             <b>Same State, Different Task: Continual Reinforcement Learning without Interference</b> <br>
                             Samuel Kessler, Jack Parker-Holder, <b>Philip J. Ball</b>, Stefan Zohren, Stephen Roberts <br>
                             AAAI 2022<br>
-                            [<a href="https://arxiv.org/abs/2106.02940">arXiv</a>]
+                            [<a href="https://arxiv.org/abs/2106.02940">arXiv</a>] <br>
+                            <!-- TL;DR: Solve conflicting reward functions in continual RL using a bandit to select which final layer to use, with TD-error as feedback. -->
                         </div>
                     </td>
                 </tr>
@@ -51,7 +84,8 @@ title: "Research"
                             <b>Towards Tractable Optimism in Model-Based Reinforcement Learning</b> <br>
                             Aldo Pacchiano*, <b>Philip J. Ball*</b>, Jack Parker-Holder*, Krzysztof Choromanski, Stephen Roberts <br>
                             UAI 2021<br>
-                            [<a href="https://arxiv.org/abs/2006.11911">arXiv</a>][<a href="https://www.auai.org/uai2021/pdf/uai2021.539.pdf">Official</a>]
+                            [<a href="https://arxiv.org/abs/2006.11911">arXiv</a>][<a href="https://www.auai.org/uai2021/pdf/uai2021.539.pdf">Official</a>] <br>
+                            <!-- TL;DR: Taking a max over noised model samples is equivalent to being optimistic in the face of uncertainty. We use this theoretical insight to make Deep MBRL algorithms that are also optimstic, improving sample efficiency. -->
                         </div>
                     </td>
                 </tr>
@@ -67,7 +101,8 @@ title: "Research"
                             <b>Philip J. Ball*</b>, Cong Lu*, Jack Parker-Holder, Stephen Roberts<br>
                             ICML 2021<br>
                             Spotlight at "Self-Supervision for Reinforcement Learning Workshop" @ ICLR 2021<br>
-                            [<a href="https://arxiv.org/abs/2104.05632">arXiv</a>][<a href="https://proceedings.mlr.press/v139/ball21a.html">Official</a>][<a href="https://sites.google.com/view/augmentedworldmodels/home">Website</a>][<a href="https://www.youtube.com/watch?v=KcG2hz9tZsQ">Presentation</a>]
+                            [<a href="https://arxiv.org/abs/2104.05632">arXiv</a>][<a href="https://proceedings.mlr.press/v139/ball21a.html">Official</a>][<a href="https://sites.google.com/view/augmentedworldmodels/home">Website</a>][<a href="https://www.youtube.com/watch?v=KcG2hz9tZsQ">Presentation</a>] <br>
+                            <!-- TL;DR: Train your policy in a world model with dynamics augmentation to generalize to unseen dynamics at test time. If you further condition on the dynamics noise at offline train time, you can learn a policy that adapts to non-stationary unseen dynamics at online test time. -->
                         </div>
                     </td>
                 </tr>
@@ -82,7 +117,8 @@ title: "Research"
                             <b>Active Inference: Demystified and Compared</b> <br>
                             Noor Sajid*, <b>Philip J. Ball*</b>, Thomas Parr, Karl J. Friston <br>
                             Neural Computation (2021, Journal) <br>
-                            [<a href="https://arxiv.org/abs/1909.10863">arXiv</a>][<a href="https://doi.org/10.1162/neco_a_01357">Official</a>][<a href="https://github.com/ucbtns/dai">GitHub</a>]
+                            [<a href="https://arxiv.org/abs/1909.10863">arXiv</a>][<a href="https://doi.org/10.1162/neco_a_01357">Official</a>][<a href="https://github.com/ucbtns/dai">GitHub</a>] <br>
+                            <!-- TL;DR: A clear explanation of active inference, and how it relates to and contrasts with reinforcement learning. We then benchmark them side by side on discrete Gym tasks. -->
                         </div>
                     </td>
                 </tr>
@@ -97,7 +133,8 @@ title: "Research"
                             <b>Ready Policy One: World Building Through Active Learning</b> <br>
                             <b>Philip J. Ball*</b>, Jack Parker-Holder*, Aldo Pacchiano, Krzysztof Choromanski, Stephen Roberts<br>
                             ICML 2020 <br>
-                            [<a href="https://arxiv.org/abs/2002.02693">arXiv</a>][<a href="http://proceedings.mlr.press/v119/ball20a.html">Official</a>][<a href="https://github.com/fiorenza2/ReadyPolicyOne">GitHub</a>][<a href="https://venturebeat.com/2020/02/11/researchers-develop-technique-to-increase-sample-efficiency-in-reinforcement-learning/">Media Coverage</a>][<a href="https://research.google/pubs/pub49234/">Google Research Site</a>]
+                            [<a href="https://arxiv.org/abs/2002.02693">arXiv</a>][<a href="http://proceedings.mlr.press/v119/ball20a.html">Official</a>][<a href="https://github.com/fiorenza2/ReadyPolicyOne">GitHub</a>][<a href="https://venturebeat.com/2020/02/11/researchers-develop-technique-to-increase-sample-efficiency-in-reinforcement-learning/">Media Coverage</a>][<a href="https://research.google/pubs/pub49234/">Google Research Site</a>] <br>
+                            <!-- TL;DR: Use world model uncertainty as an active learning acquisition function to directly improve dynamics estimation. This greatly improves sample efficiency. -->
                         </div>
                     </td>
                 </tr>
@@ -112,7 +149,8 @@ title: "Research"
                             <b>The Sensitivity of Counterfactual Fairness to Unmeasured Confounding</b> <br>
                             Niki Kilbertus, <b>Philip J. Ball</b>, Matt J. Kusner, Adrian Weller, Ricardo Silva<br>
                             UAI 2019 <br>
-                            [<a href="https://arxiv.org/abs/1907.01040">arXiv</a>][<a href="http://proceedings.mlr.press/v115/kilbertus20a.html">Official</a>][<a href="https://github.com/nikikilbertus/cf-fairness-sensitivity">GitHub</a>]
+                            [<a href="https://arxiv.org/abs/1907.01040">arXiv</a>][<a href="http://proceedings.mlr.press/v115/kilbertus20a.html">Official</a>][<a href="https://github.com/nikikilbertus/cf-fairness-sensitivity">GitHub</a>] <br>
+                            <!-- TL;DR: Hidden confounding in causal graphs can in fact result in diminished conterfactual fairness. -->
                         </div>
                     </td>
                 </tr>
