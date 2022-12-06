@@ -133,7 +133,7 @@ title: "Research"
                             <b>Ready Policy One: World Building Through Active Learning</b> <br>
                             <b>Philip J. Ball*</b>, Jack Parker-Holder*, Aldo Pacchiano, Krzysztof Choromanski, Stephen Roberts<br>
                             ICML 2020 <br>
-                            [<a href="https://arxiv.org/abs/2002.02693">arXiv</a>][<a href="http://proceedings.mlr.press/v119/ball20a.html">Official</a>][<a href="https://github.com/fiorenza2/ReadyPolicyOne">GitHub</a>][<a href="https://venturebeat.com/2020/02/11/researchers-develop-technique-to-increase-sample-efficiency-in-reinforcement-learning/">Media Coverage</a>][<a href="https://research.google/pubs/pub49234/">Google Research Site</a>] <br>
+                            [<a href="https://arxiv.org/abs/2002.02693">arXiv</a>][<a href="http://proceedings.mlr.press/v119/ball20a.html">Official</a>][<a href="https://github.com/philipjball/ReadyPolicyOne">GitHub</a>][<a href="https://venturebeat.com/2020/02/11/researchers-develop-technique-to-increase-sample-efficiency-in-reinforcement-learning/">Media Coverage</a>][<a href="https://research.google/pubs/pub49234/">Google Research Site</a>] <br>
                             <!-- TL;DR: Use world model uncertainty as an active learning acquisition function to directly improve dynamics estimation. This greatly improves sample efficiency. -->
                         </div>
                     </td>
@@ -217,7 +217,7 @@ title: "Research"
                             <b>OffCon<sup>3</sup>: What is state of the art anyway?</b> <br>
                             <b>Philip J. Ball</b>, Stephen J. Roberts<br>
                             arXiv<br>
-                            [<a href="https://arxiv.org/abs/2101.11331">arXiv</a>][<a href="https://github.com/fiorenza2/OffCon3">GitHub</a>]
+                            [<a href="https://arxiv.org/abs/2101.11331">arXiv</a>][<a href="https://github.com/philipjball/OffCon3">GitHub</a>]
                         </div>
                     </td>
                 </tr>
