@@ -12,6 +12,36 @@ title: "Research"
                 <tr>
                     <td style="text-align:center; border: 0px">
                         <div class="large-2 columns">
+                            <img style="float: center;" src="/assets/img/papers/rlpd.png" alt="RLPD" height="100px"/>
+                        </div>
+                    </td>
+                    <td style="border: 0px">
+                        <div class="large-12 columns">
+                            <b>Efficient Online Reinforcement Learning with Offline Data </b> <br>
+                            <b>Philip J. Ball*</b>, Laura Smith*, Ilya Kostrikov, Sergey Levine <br>
+                            ICML 2023<br>
+                            [<a href="https://arxiv.org/abs/2302.02948">arXiv</a>][<a href="https://proceedings.mlr.press/v202/ball23a.html">Official</a>][<a href="https://github.com/ikostrikov/rlpd">Code</a>]<br>
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align:center; border: 0px">
+                        <div class="large-2 columns">
+                            <img style="float: center;" src="/assets/img/papers/vd4rl.png" alt="VD4RL" height="100px"/>
+                        </div>
+                    </td>
+                    <td style="border: 0px">
+                        <div class="large-12 columns">
+                            <b>Challenges and Opportunities in Offline Reinforcement Learning from Visual Observations </b> <br>
+                            Cong Lu*, <b>Philip J. Ball*</b>, Tim G. J. Rudner, Jack Parker-Holder, Michael A. Osborne, Yee Whye Teh <br>
+                            TMLR (2023)<br>
+                            [<a href="https://arxiv.org/abs/2206.04779">arXiv</a>][<a href="https://openreview.net/forum?id=1QqIfGZOWu">Official</a>][<a href="https://github.com/conglu1997/v-d4rl/">Code</a>]<br>
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align:center; border: 0px">
+                        <div class="large-2 columns">
                             <img style="float: center;" src="/assets/img/papers/cascade.jpg" alt="CASCADE" height="100px"/>
                         </div>
                     </td>
@@ -27,7 +57,7 @@ title: "Research"
                 <tr>
                     <td style="text-align:center; border: 0px">
                         <div class="large-2 columns">
-                            <img style="float: center;" src="/assets/img/papers/alix.png" alt="A-LIX" height="100px"/>
+                            <img style="float: center;" src="/assets/img/papers/alix.png" alt="A-LIX" width="300px"/>
                         </div>
                     </td>
                     <td style="border: 0px">
@@ -36,7 +66,7 @@ title: "Research"
                             Edoardo Cetin*, <b>Philip J. Ball*</b>, Stephen Roberts, Oya Celiktutan <br>
                             ICML 2022<br>
                             [<a href="https://arxiv.org/abs/2207.00986">arXiv</a>][<a href="https://proceedings.mlr.press/v162/cetin22a.html">Official</a>]<br>
-                            <!-- TL;DR: Combining CNNs + TD-Learning causes catastrophic overfitting early in training. Overcome this by mixing up the gradients in the CNN features, and adapt this mixing over training, achieving SOTA in Atari 100k. -->
+                            <!-- TL;DR: Combining CNNs + TD-Learning causes catastrophic overfitting/memorization early in training. Overcome this by mixing up the gradients in the CNN features, and adapt this mixing over training, achieving SOTA in Atari 100k. -->
                         </div>
                     </td>
                 </tr>
@@ -165,6 +195,21 @@ title: "Research"
     <div class="col-sm-10">
         <table>
             <tbody>
+                <tr>
+                    <td style="text-align:center; border: 0px">
+                        <div class="large-2 columns">
+                            <img style="float: center;" src="/assets/img/papers/synther.png" alt="SynthER" width="300px"/>
+                        </div>
+                    </td>
+                    <td style="border: 0px">
+                        <div class="large-12 columns">
+                            <b>Synthetic Experience Replay</b> <br>
+                            Cong Lu*, <b>Philip J. Ball*</b>, Yee Whye Teh, Jack Parker-Holder <br>
+                            Reincarnating Reinforcement Learning Workshop at ICLR 2023 (Spotlight), ICML 2023 Workshop on New Frontiers in Learning, Control, and Dynamical Systems<br>
+                            [<a href="https://arxiv.org/abs/2303.06614">arXiv</a>][<a href="https://github.com/conglu1997/SynthER">Code</a>]<br>
+                        </div>
+                    </td>
+                </tr>
                 <tr>
                     <td style="text-align:center; border: 0px">
                         <div class="large-1 columns">
