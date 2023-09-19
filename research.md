@@ -18,7 +18,7 @@ title: "Research"
                     <td style="border: 0px">
                         <div class="large-12 columns">
                             <b>Efficient Online Reinforcement Learning with Offline Data </b> <br>
-                            <b>Philip J. Ball*</b>, Laura Smith*, Ilya Kostrikov, Sergey Levine <br>
+                            <b>Philip J. Ball*</b>, Laura Smith*, Ilya Kostrikov*, Sergey Levine <br>
                             ICML 2023<br>
                             [<a href="https://arxiv.org/abs/2302.02948">arXiv</a>][<a href="https://proceedings.mlr.press/v202/ball23a.html">Official</a>][<a href="https://github.com/ikostrikov/rlpd">Code</a>]<br>
                         </div>
