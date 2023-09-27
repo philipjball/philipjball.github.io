@@ -12,6 +12,22 @@ title: "Research"
                 <tr>
                     <td style="text-align:center; border: 0px">
                         <div class="large-2 columns">
+                            <img style="float: center;" src="/assets/img/papers/synther.png" alt="SynthER" width="300px"/>
+                        </div>
+                    </td>
+                    <td style="border: 0px">
+                        <div class="large-12 columns">
+                            <b>Synthetic Experience Replay</b> <br>
+                            Cong Lu*, <b>Philip J. Ball*</b>, Yee Whye Teh, Jack Parker-Holder <br>
+                            NeurIPS 2023 <br>
+                            Reincarnating Reinforcement Learning Workshop at ICLR 2023 (Spotlight), ICML 2023 Workshop on New Frontiers in Learning, Control, and Dynamical Systems<br>
+                            [<a href="https://arxiv.org/abs/2303.06614">arXiv</a>][<a href="https://github.com/conglu1997/SynthER">Code</a>]<br>
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align:center; border: 0px">
+                        <div class="large-2 columns">
                             <img style="float: center;" src="/assets/img/papers/rlpd.png" alt="RLPD" height="100px"/>
                         </div>
                     </td>
@@ -195,21 +211,6 @@ title: "Research"
     <div class="col-sm-10">
         <table>
             <tbody>
-                <tr>
-                    <td style="text-align:center; border: 0px">
-                        <div class="large-2 columns">
-                            <img style="float: center;" src="/assets/img/papers/synther.png" alt="SynthER" width="300px"/>
-                        </div>
-                    </td>
-                    <td style="border: 0px">
-                        <div class="large-12 columns">
-                            <b>Synthetic Experience Replay</b> <br>
-                            Cong Lu*, <b>Philip J. Ball*</b>, Yee Whye Teh, Jack Parker-Holder <br>
-                            Reincarnating Reinforcement Learning Workshop at ICLR 2023 (Spotlight), ICML 2023 Workshop on New Frontiers in Learning, Control, and Dynamical Systems<br>
-                            [<a href="https://arxiv.org/abs/2303.06614">arXiv</a>][<a href="https://github.com/conglu1997/SynthER">Code</a>]<br>
-                        </div>
-                    </td>
-                </tr>
                 <tr>
                     <td style="text-align:center; border: 0px">
                         <div class="large-1 columns">
