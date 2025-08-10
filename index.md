@@ -11,4 +11,4 @@ Previously I was an [AI Resident](https://www.microsoft.com/en-us/research/acade
 
 In my spare time I like to play the [bass guitar](https://www.youtube.com/user/PhilPlaysBass) and read. I can also speak Mandarin to a relatively fluent level, which has led me to work for extended periods of time in China and Hong Kong.
 
-If you want to email me, please do so at `ball AT robots DOT ox DOT ac DOT uk`.
+If you want to email me, please do so at `balljohnphilip AT gmail DOT com`.
