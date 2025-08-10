@@ -3,7 +3,7 @@ layout: default
 title: Philip J. Ball
 ---
 <img style="padding: 0.2em 1.5em; float: right;" src="/assets/img/me.png" alt="Philip Ball" height="220"/>
-I'm Phil, a Research Scientist at Google DeepMind, where I've been a core contributor on [Genie 2](https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/) and [Genie 3](https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/).
+I'm Phil, a Research Scientist at Google DeepMind, where I've been a core contributor on [Genie 2](https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/) and [Genie 3](https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/). I'm interested in generative video models, high fidelity world models, and machine learning that survives the test of scale.
 
 Before this I was a PhD student at the [University of Oxford](https://www.ox.ac.uk/), supervised by Prof. [Steve Roberts](http://www.robots.ox.ac.uk/~sjrob/) in the [Machine Learning Research Group](http://www.robots.ox.ac.uk/~parg/). I've completed internships at [Waymo](https://waymo.com/), investigating interpretibility and uncertainty calibration in deep learning, and at [Microsoft Research](https://www.microsoft.com/en-us/research/), working on continual learning through the lens of network compression. I've also been fortunate enough to work with Prof. [Sergey Levine](https://people.eecs.berkeley.edu/~svlevine/) as a visiting student at [RAIL Lab](https://rail.eecs.berkeley.edu/) at UC Berkeley.
 
