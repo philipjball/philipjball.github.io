@@ -1,5 +1,5 @@
 title: Philip J. Ball
-description: DPhil/PhD Student @ University of Oxford
+description: Research Scientist @ Google DeepMind
 markdown: kramdown
 permalink: /posts/:year/:month/:day/:title
 theme: jekyll-theme-cayman
@@ -10,7 +10,7 @@ social-network-links:
 #  facebook: 
   github: philipjball
   google-scholar: 5Cm8L90AAAAJ
-#  twitter: daattali
+  x: philipjohnball
 #  reddit: yourname
 #  google-plus: +DeanAttali
   linkedin: philipjohnball

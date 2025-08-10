@@ -11,12 +11,7 @@
             <a href="{{element.baseURL}}{{ site.social-network-links[curkey] }}" title="{{ element.name }}" class="fa-icon-style">
             {%- endif -%}
                 <span class="fa-stack fa-lg" aria-hidden="true">
-                <i class="fa fa-square fa-stack-2x"></i>
-                {%- if curkey == 'google-scholar' -%}
-                    <i class="ai {{ element.icon }} ai-stack-1x ai-inverse"></i>
-                {%- else -%}
-                    <i class="fa {{ element.icon }} fa-stack-1x fa-inverse"></i>
-                {%- endif -%}
+                <i class="fa-brands {{ element.icon }}"></i>
                 </span>
             </a>
         {%- endfor -%}

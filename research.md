@@ -3,6 +3,49 @@ layout: default
 title: "Research"
 ---
 
+# Projects
+
+<div class="row">
+    <div class="col-sm-10">
+        <table>
+            <tbody>
+                <tr>
+                    <td style="text-align:center; border: 0px">
+                        <div class="large-2 columns">
+                            <video width=240px loop autoplay>
+                                <source src="/assets/vid/genie3.mp4" type="video/mp4">
+                            </video> 
+                        </div>
+                    </td>
+                    <td style="border: 0px">
+                        <div class="large-12 columns">
+                            <b>Genie 3</b>: A New Frontier For World Models <br>
+                            Core Contributor <br>
+                            [<a href="https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/">Blog Post</a>]<br>
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align:center; border: 0px">
+                        <div class="large-2 columns">
+                             <video width=240px loop autoplay>
+                                <source src="/assets/vid/genie2.mp4" type="video/mp4">
+                            </video> 
+                        </div>
+                    </td>
+                    <td style="border: 0px">
+                        <div class="large-12 columns">
+                            <b>Genie 2</b>: A Large Scale Foundation World Model <br>
+                            Core Contributor <br>
+                            [<a href="https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/">Blog Post</a>]<br>
+                        </div>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>
+
 # Publications
 
 <div class="row">
