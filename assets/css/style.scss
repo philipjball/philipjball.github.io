@@ -33,7 +33,7 @@ a.fa-icon-style {
 }
 
 .page-header {
-    font-family: "Open Sans";
+    font-family: "Open Sans", sans-serif;
     padding: 0.25rem 0.25rem;
     padding-bottom: 0px;
     // border-bottom: solid 2px $hr-border-color;
@@ -75,7 +75,7 @@ a.fa-icon-style {
 }
 
 .main-content {
-    font-family: 'Open Sans', serif;
+    font-family: 'Open Sans', Arial, sans-serif;
 
 @include large {
     max-width: 72rem;
